@@ -1,5 +1,7 @@
 # Credit Default Risk Scorer — Full-Stack ML App
 
+**🔗 [Live App](https://your-app.vercel.app)** · **[GitHub](https://github.com/grgarnv/credit-risk-scorer)**
+
 A full-stack application that scores credit-card customers for **default risk** in
 real time, explains *why* each customer is flagged, and recommends a lending
 decision based on business cost — not a naive threshold.
