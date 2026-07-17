@@ -6,7 +6,7 @@ decision based on business cost — not a naive threshold.
 
 **Stack:** React (Vite) · FastAPI · scikit-learn · SHAP · deployed on Vercel + Render.
 
-![screenshot](screenshot.png)
+![screenshot](Screenshot 2026-07-17 164350.png)
 
 ## What it does
 
