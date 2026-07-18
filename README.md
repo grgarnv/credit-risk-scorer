@@ -8,8 +8,6 @@ analyst run what-if scenarios — all behind a Material-styled React interface.
 
 **Stack:** React (Vite) · Recharts · FastAPI · scikit-learn · SHAP · Render + Vercel
 
-![screenshot](screenshot.png)
-
 ---
 
 ## Why this project exists
