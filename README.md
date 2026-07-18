@@ -18,7 +18,7 @@ decision based on business cost — not a naive threshold.
 - **Cost-sensitive decisions** — the approve / review / decline threshold is derived from
   a 5:1 cost ratio (a missed default costs ~5× a false alarm), not a default 0.5 cutoff.
 - **Model** — Gradient Boosting on the UCI *Default of Credit Card Clients* dataset
-  (30,000 customers), with 4 domain-engineered features. Test ROC-AUC ≈ 0.78.
+  (30,000 customers), with 4 domain-engineered features. Test ROC-AUC = 0.7826.
 
 ## Architecture
 
